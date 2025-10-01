@@ -1,0 +1,13 @@
+.logoImg{
+    /* margin:0;
+    border:0;
+    box-sizing: border-box; */
+    height:50px;
+    width:100px;
+    object-fit:contain;
+   
+}
+
+.nav-item > .nav-link.active{
+    color:white;
+}
