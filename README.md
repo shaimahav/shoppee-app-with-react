@@ -27,7 +27,7 @@ npm or yarn
 
 1. Clone the Repository
 ``` bash
-git clone https://github.com/your-username/shoppee-app-react.git
+git clone https://github.com/shaimahav/shoppee-app-with-react.git
 cd shoppee-app-react
 ```
 2. Install Dependencies
